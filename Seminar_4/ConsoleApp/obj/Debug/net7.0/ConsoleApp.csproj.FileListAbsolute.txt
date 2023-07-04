@@ -1,0 +1,15 @@
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/veronicasafarian/Desktop/C#/Seminar_4/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
